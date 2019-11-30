@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+I love beer
+
+Total n00b to code
